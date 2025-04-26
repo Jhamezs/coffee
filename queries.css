@@ -533,6 +533,9 @@
   h1 {
     font-size: 9rem;
   }
+  .header {
+    padding: 1rem;
+  }
   .beans {
     width: 40rem;
     height: 50vh;
